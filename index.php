@@ -599,7 +599,16 @@
   </main>
 
   <!-- JS Externo -->
-  <script src="script.js"></script>
+  <script src="assets/js/app.js"></script>
+  <script src="assets/js/resumo.js"></script>
+  <script src="assets/js/vendas.js"></script>
+  <script src="assets/js/gastos.js"></script>
+  <script src="assets/js/pessoal.js"></script>
+  <script src="assets/js/estoque.js"></script>
+  <script src="assets/js/caixinhas.js"></script>
+  <script src="assets/js/historico.js"></script>
+  <script src="assets/js/reservas.js"></script>
+</body>
 </body>
 
 </html>
