@@ -599,15 +599,14 @@
   </main>
 
   <!-- JS Externo -->
-<script src="assets/js/app.js"></script>  
-<script src="assets/js/resumo.js"></script>
-<script src="assets/js/vendas.js"></script>
-<script src="assets/js/gastos.js"></script>
-<script src="assets/js/pessoal.js"></script>
-<script src="assets/js/estoque.js"></script>
-<script src="assets/js/caixinhas.js"></script>
-<script src="assets/js/reservas.js"></script>
-<script src="assets/js/historico"></script>
+<script src="resumo.js"></script>
+<script src="vendas.js"></script>
+<script src="gastos.js"></script>
+<script src="pessoal.js"></script>
+<script src="estoque.js"></script>
+<script src="caixinhas.js"></script>
+<script src="reservas.js"></script>
+<script src="historico"></script>
 </body>
 
 </html>
