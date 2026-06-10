@@ -599,6 +599,7 @@
   </main>
 
   <!-- JS Externo -->
+<script src="assets/js/app.js"></script>  
 <script src="assets/js/resumo.js"></script>
 <script src="assets/js/vendas.js"></script>
 <script src="assets/js/gastos.js"></script>
